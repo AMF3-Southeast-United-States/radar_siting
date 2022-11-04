@@ -1,0 +1,11 @@
+name: wradlib-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - gdal
+  - earthengine-api
+  - geemap
+  - jupyterlab
+  - wradlib
