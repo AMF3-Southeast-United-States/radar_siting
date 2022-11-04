@@ -5,5 +5,5 @@ This repo is a work in progress
 
 <br> 
 
-## Launch the GEE version in Binder (right-click, open in a new tab)
+### Launch the GEE version in Binder (right-click, open in a new tab)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMF3-Southeast-United-States/radar_siting/HEAD?labpath=notebooks%2Famf3_radar_blockage_demo_gee.ipynb)
