@@ -8,5 +8,6 @@ dependencies:
   - gdal
   - earthengine-api
   - geemap
+  - elevation
   - jupyterlab
   - wradlib
